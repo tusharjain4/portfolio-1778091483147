@@ -1,0 +1,110 @@
+{
+  "name": "Pooja R. Sonar",
+  "role": "Software Developer",
+  "tagline": "A results-driven Full-stack Software Developer with expertise in architecting real-time systems, scalable web applications, and AI-driven platforms, leveraging the MERN stack and cloud technologies.",
+  "about": "Pooja R. Sonar is an accomplished Software Developer with 1.3 years of hands-on professional experience, including impactful internships and her current role at InnoFarms.AI. She excels in architecting and developing robust, scalable web applications and real-time systems. Her comprehensive skill set spans the MERN stack, Node.js, Express, and cloud platforms such as Azure and MongoDB. Pooja's expertise encompasses end-to-end development, from crafting responsive front-ends with React and Next.js to designing secure backend architectures and integrating complex APIs, delivering user-friendly solutions for e-commerce, AI-powered learning, and real-time data telemetry.",
+  "experience": 1.3,
+  "currentRole": "Software Developer at InnoFarms.AI",
+  "highlights": [
+    "Architected real-time telemetry (10K+ readings/min) via Cosmos DB change feed + Node.js; achieved 99.9% uptime.",
+    "Integrated Socket.IO WebSockets + MQTT to serve 500+ farms with <100ms UI latency.",
+    "Built Next.js (TypeScript) + Redux dashboards for 50+ sensor cards, anomalies, alerts; <200ms refresh.",
+    "Developed an AI-powered, gamified coding preparation platform for learning programming languages using Gemini's API.",
+    "Built a full-fledged backend clone of Chess.com on MERN stack, implementing Socket.IO for real-time game synchronization.",
+    "Secured 3rd place in Hackathon organized by GDSC ADGITM."
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "skills": [
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "C++",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Core CS",
+      "skills": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "skills": [
+        "React",
+        "Next.js",
+        "Redux",
+        "Tailwind CSS",
+        "MUI"
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        "Node.js",
+        "Express",
+        "Java",
+        "Spring",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Realtime",
+      "skills": [
+        "WebSockets",
+        "Socket.IO",
+        "MQTT",
+        "SSE",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "skills": [
+        "Azure (Container Apps, Cosmos DB)",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Tools",
+      "skills": [
+        "Git/GitHub",
+        "Postman"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AccessAI - CodeQuest (MERN)",
+      "description": "Led the development of AccessAI - CodeQuest, an AI-powered, gamified platform designed to enhance programming language acquisition. This comprehensive solution offered educational content, interactive coding challenges, and AI-driven assistance via Gemini's API, supporting a wide array of languages and frameworks including Solidity, JavaScript, CSS, and React.",
+      "tech": [
+        "Solidity",
+        "JavaScript",
+        "CSS",
+        "React",
+        "Gemini's API",
+        "MERN Stack"
+      ]
+    },
+    {
+      "name": "Chess.com Backend Clone (MERN)",
+      "description": "Engineered a full-fledged Chess.com backend clone using the MERN stack, meticulously replicating complex chess gameplay mechanics. Implemented robust Socket.IO WebSockets (with rooms, namespaces, heartbeats, and reconnection logic) to ensure real-time synchronization of moves, clocks, and game states (resign/draw). Designed and secured comprehensive RESTful Express APIs for user management, game sessions, and move processing, incorporating JWT (access and refresh tokens), RBAC, rate limiting, and CORS for enhanced security and performance.",
+      "tech": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js",
+        "Socket.IO",
+        "JWT"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "poojasonar671@gmail.com",
+    "linkedin": "https://linkedin.com/in/pooja.sonar",
+    "github": "https://github.com/pooja.sonar"
+  }
+}
